@@ -3614,11 +3614,11 @@
   Hasta que completes tu próximo descanso largo, tú y tus aliados obtenéis un bonificador de +5 a las pruebas de Destreza (Sigilo) y Sabiduría (Percepción).</content>
   <content contentuid="h447397a3g875fgc842g106dg4b2c03ef1b5b" version="1">Senderos Ocultos</content>
   <content contentuid="hb6ad15b6g6a5cgc8edg95d4gd631318ac05a" version="1">Senderos Ocultos</content>
-  <content contentuid="h318e3ac4g7a18ga5edgf912g65c014f1354e" version="1">Raza: Dhampir</content>
-  <content contentuid="h64543ab1gec40g4962g092eg85f690ed7102" version="1">Los dhampirs son humanoides con herencia vampírica. Tienes Resistencia al daño Necrótico, Visión en la Oscuridad, mayor velocidad y una mordida que drena vida para sustentarte.</content>
+  <content contentuid="h318e3ac4g7a18ga5edgf912g65c014f1354e" version="2">Mordedura Vampírica</content>
+  <content contentuid="h64543ab1gec40g4962g092eg85f690ed7102" version="2">Puedes succionar la sangre de una criatura viva para recuperar puntos de vida.</content>
   <content contentuid="h9936bfdfgad15g113bged99g9778bc8cba86" version="1">El hambre vampírica ha sido temporalmente saciada. +1 a todas las &lt;LSTag Tooltip="AttackRoll"&gt;Tiradas de Ataque&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;Tiradas de Salvación&lt;/LSTag&gt; y la mayoría de las &lt;LSTag Tooltip="AbilityCheck"&gt;Pruebas de Característica&lt;/LSTag&gt;.</content>
-  <content contentuid="ha48ff32fg388ag1220g80cbgc8e2ec3cd1c7" version="1">Raza: Kalashtar</content>
-  <content contentuid="h9105e090ga08cg9a3fgb40ag60da6cec8ae0" version="1">Los kalashtar son aberraciones con un vínculo espiritual quori. Tienes Ventaja en las Tiradas de Salvación de Sabiduría y Carisma, Resistencia al daño Psíquico y una competencia de habilidad cambiante en cada Descanso Largo.</content>
+  <content contentuid="ha48ff32fg388ag1220g80cbgc8e2ec3cd1c7" version="2">Separados de los Sueños</content>
+  <content contentuid="h9105e090ga08cg9a3fgb40ag60da6cec8ae0" version="2">Al finalizar un Descanso Largo, obtienes competencia en una habilidad de tu elección. Dicha competencia esta activa hasta que Completes otro Descanso Largo.</content>
   <content contentuid="hb3e89e41gbe95gff0dgb116gf17d00181a3d" version="1">Separado de los Sueños</content>
   <content contentuid="h76b975b4g225dg6d93g8391g805c6fe94d75" version="1">Separado de los Sueños: Carisma</content>
   <content contentuid="he10fa554g1d22g52e8ga07ag4d67ea3adba9" version="1">Separado de los Sueños: Destreza</content>
